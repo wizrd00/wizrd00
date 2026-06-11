@@ -9,6 +9,8 @@ Arash Ghaffari
 	+989336435807
 - GitHub :
 	https://github.com/wizrd00
+- Blog :
+	https://wizrd00.github.io
 - Linkedin :
 	Not Available Right Now (Banned in Iran)
 
