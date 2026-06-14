@@ -1,29 +1,135 @@
 ``` text
 Arash Ghaffari
 
-- Emails :
-	wizrd.bin@proton.me
-	swhwap.net@gmail.com
-- Phones :
-	+989103206164
-	+989336435807
-- GitHub :
-	https://github.com/wizrd00
-- Blog :
-	https://wizrd00.github.io
-- Linkedin :
-	Not Available Right Now (Banned in Iran)
+Email:
+- wizrd.bin@proton.me
+- swhwap.net@gmail.com
+
+Phone:
+- +98 910 320 6164
+- +98 933 643 5807
+
+GitHub:
+https://github.com/wizrd00
+
+LinkedIn:
+Not available (restricted in Iran)
 
 
 SUMMARY
 =======
-Self-taught Programmer focused on network and systems programming, embedded systems and Linux.
-C expert and low-level programmer. Experienced in developing low-level socket and systems projects
-like Reliable UDP-based File Sharing and text-based Graphics engine.
-Python expert and network programmer. Experienced in developing low-level network and security scripts
-like Packet Sniffer, Port Scanner and Traceroute.
-Experiencing in Emebedded programming like ESP-IDF(ESP32, ESP8266), with two new projects.
+Self-taught programmer specializing in systems programming, network programming, embedded systems, and Linux development.
 
+Strong experience in low-level programming in C and Python, including socket programming, protocol design, and system tools.
+
+Developed multiple networking and systems projects such as a reliable UDP-based file transfer system, packet analysis tools, and a terminal-based graphics engine.
+
+Currently expanding expertise in embedded systems development using ESP-IDF (ESP32 / ESP8266).
+
+
+SKILLS
+======
+Programming Languages:
+- C
+- Python
+
+Core Areas:
+- Systems Programming
+- Network Programming
+- Socket Programming
+- Embedded Systems (ESP-IDF)
+- Linux Development
+- Version Control (Git)
+
+
+PROJECTS
+========
+
+rufshare
+--------
+https://github.com/wizrd00/rufshare
+C
+
+Reliable UDP-based file sharing system.
+
+Designed and implemented a custom protocol on top of UDP to reliably transfer files between sender and receiver with data integrity verification.
+
+Potential improvements include introducing a pipelined architecture for improved throughput and replacing CRC with stronger error-detection algorithms.
+
+
+terrenity
+---------
+https://github.com/wizrd00/terrenity
+C
+
+Terminal-based graphics library based on a two-matrix rendering approach.
+
+Provides primitives for building text-based applications such as games, editors, and CLI-based graphical interfaces.
+
+Used in personal project Brikcrash:
+https://github.com/wizrd00/brikcrash
+
+
+HI6Toolkit
+----------
+https://github.com/wizrd00/HI6Toolkit
+Python
+
+Collection of network tools for network analysis and testing.
+
+Includes:
+- Async packet sniffer using raw sockets
+- High-performance port scanner
+- UDP-based traceroute using TTL manipulation
+- Network stress testing tools (ARP flood and TCP SYN flood) for authorized testing environments
+
+
+simbench
+--------
+https://github.com/wizrd00/simbench
+x86_64 Assembly
+
+Micro-benchmarking tool written in x86_64 assembly for practicing low-level programming and system performance evaluation.
+
+
+fhttps
+------
+https://github.com/wizrd00/fhttps
+Python
+
+Asynchronous HTTPS stress testing script developed for testing ESP8266 HTTPS server performance in controlled environments only.
+
+
+raven
+-----
+https://github.com/wizrd00/raven
+C
+
+Quadcopter control system based on ESP-IDF (ESP8266).
+Project not yet started.
+
+
+nibble
+------
+https://github.com/wizrd00/nibble
+C
+
+Embedded ESP-IDF-based project for a multi-tool device called Nibble with ST7789V display and joystick navigation.
+Currently in early development stage.
+
+
+EDUCATION
+=========
+
+Software Engineering
+Imam Khomeini International University
+
+
+LANGUAGES
+=========
+
+Persian - Native
+English - Intermediate
 
 SKILLS
 ======
