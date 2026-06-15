@@ -9,6 +9,9 @@ Phone:
 - +98 910 320 6164
 - +98 933 643 5807
 
+Blog:
+https://wizrd00.github.io
+
 GitHub:
 https://github.com/wizrd00
 
