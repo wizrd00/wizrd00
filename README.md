@@ -18,7 +18,11 @@ https://github.com/wizrd00
 
 SUMMARY
 =======
-Self-taught programmer specializing in systems programming, network programming, and embedded systems (ESP-IDF), with experience in software development on Linux. Highly proficient in C and Python, with a focus on low-level socket programming, protocol design, and the development of systems tools.
+Self-taught programmer specializing in systems programming,
+network programming, and embedded systems (ESP-IDF),
+with experience in software development on Linux.
+Highly proficient in C and Python, with a focus on low-level
+socket programming, protocol design, and the development of systems tools.
 
 
 SKILLS
