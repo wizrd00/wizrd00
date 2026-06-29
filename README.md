@@ -2,12 +2,15 @@
 
 **Email:**
 - wizrd.bin@proton.me
-- swhwap.net@gmail.com  
+- swhwap.net@gmail.com
+
 **Phone:**
 - +98 910 320 6164
-- +98 933 643 5807  
+- +98 933 643 5807
+
 **Blog:**
-- [wizrd00.github.io](https://wizrd00.github.io)  
+- [wizrd00.github.io](https://wizrd00.github.io)
+
 **GitHub:**
 -[github.com/wizrd00](https://github.com/wizrd00)
 
