@@ -46,6 +46,7 @@ rufshare
 --------
 https://github.com/wizrd00/rufshare
 C
+
 RUFShare (Reliable UDP File Sharing) is a lightweight file transfer library built on top of UDP, designed to provide reliable file delivery while maintaining the performance advantages of connectionless communication.
 The library implements a custom protocol that handles:
 • Peer discovery
@@ -61,9 +62,7 @@ terrenity
 https://github.com/wizrd00/terrenity
 C
 
-Terminal-based graphics library based on a two-matrix rendering approach.
-
-Provides primitives for building text-based applications such as games, editors, and CLI-based graphical interfaces.
+A terminal graphics rendering library in C. Implements dual-buffer rendering, POSIX termios raw-mode management, linked-list object pipeline, and batch ANSI output via fwrite. Ships as a shared library with musl/glibc variants and Unity-based tests.
 
 Used in personal project Brikcrash:
 https://github.com/wizrd00/brikcrash
@@ -74,13 +73,14 @@ HI6Toolkit
 https://github.com/wizrd00/HI6Toolkit
 Python
 
-Collection of network tools for network analysis and testing.
-
-Includes:
-- Async packet sniffer using raw sockets
-- High-performance port scanner
-- UDP-based traceroute using TTL manipulation
-- Network stress testing tools (ARP flood and TCP SYN flood) for authorized testing environments
+A collection of low-level networking and security utilities such as packet analysis, network discovery, and traceroute.
+• 1,900+ lines of code
+• Implemented a data-link-layer packet analysis with manual parsing of Ethernet, ARP, IPv4, 
+IPv6, ICMPv4, ICMPv6, IGMP, UDP and TCP headers
+• Developed Port Scanner and Traceroute modules using raw sockets
+• Simulated network attack scenarios (ARP flood, SYN flood) for security testing and protocol-level learning
+• Built a custom HTTP/HTTPS client from scratch with third-party dependencies
+• Designed a CLI with argparse and an object-oriented architecture supporting both standalone script and module usage
 
 
 simbench
@@ -185,41 +185,17 @@ trace the route in network.
 This Script includes Two DoS approach called ARP flood and TCP SYN flood and can be use
 in many ways like network test and penetration test.
 
-simbench
---------
-https://github.com/wizrd00/simbench
-Written in x86_64 Assembly
---------
-Simple Micro Benchmark that I wrote to practice x86 assembly and also
-benchmark my systems
 
-fhttps
-------
-https://github.com/wizrd00/fhttps
-Written in Python
-------
-Async HTTPS flood script which I wrote only to testing my ESP8266 https server.
-This script is just for testing and should not be used in other networks without permission.
+BrikCrash
+---------
+https://github.com/wizrd00/brikcrash
+C
 
-raven
------
-https://github.com/wizrd00/raven
-Written in C
------
-A QuadCopter ESP-IDF(ESP8266) software which I haven't started it yet.
-
-nibble
-------
-https://github.com/wizrd00/nibble
-Written in C
-------
-A ESP-IDF(ESP8266) based software which I have started to implement an OS-like
-software for multi-tool gadget called Nibble with ST7789V monitor and a joystick for navigation.
-
+A terminal-based clone of the classic Atari Breakout game written entirely in C. BrikCrash runs directly inside the terminal and uses the Terrenity graphics engine for rendering, input handling, and frame management. The project demonstrates game development concepts such as collision detection, object management, game loops, and terminal graphics programming without relying on external game frameworks.
 
 EDUCATION
 =========
-- Major : Software Engineer
+- Major : Software Engineer (First-Year Student)
 - University : Imam Khomeini International University
 
 LANGUAGES
