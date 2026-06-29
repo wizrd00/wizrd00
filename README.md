@@ -15,9 +15,6 @@ https://wizrd00.github.io
 GitHub:
 https://github.com/wizrd00
 
-LinkedIn:
-Not available (restricted in Iran)
-
 
 SUMMARY
 =======
@@ -81,109 +78,6 @@ IPv6, ICMPv4, ICMPv6, IGMP, UDP and TCP headers
 • Simulated network attack scenarios (ARP flood, SYN flood) for security testing and protocol-level learning
 • Built a custom HTTP/HTTPS client from scratch with third-party dependencies
 • Designed a CLI with argparse and an object-oriented architecture supporting both standalone script and module usage
-
-
-simbench
---------
-https://github.com/wizrd00/simbench
-x86_64 Assembly
-
-Micro-benchmarking tool written in x86_64 assembly for practicing low-level programming and system performance evaluation.
-
-
-fhttps
-------
-https://github.com/wizrd00/fhttps
-Python
-
-Asynchronous HTTPS stress testing script developed for testing ESP8266 HTTPS server performance in controlled environments only.
-
-
-raven
------
-https://github.com/wizrd00/raven
-C
-
-Quadcopter control system based on ESP-IDF (ESP8266).
-Project not yet started.
-
-
-nibble
-------
-https://github.com/wizrd00/nibble
-C
-
-Embedded ESP-IDF-based project for a multi-tool device called Nibble with ST7789V display and joystick navigation.
-Currently in early development stage.
-
-
-EDUCATION
-=========
-
-Software Engineering
-Imam Khomeini International University
-
-
-LANGUAGES
-=========
-
-Persian - Native
-English - Intermediate
-
-SKILLS
-======
-- Programming Languages :
-	- C
-	- Python
-- Technologies :
-	- Network Programming
-	- Socket Programming
-	- Embedded Programming
-	- Linux and System Programming
-	- Git
-
-
-PROJECTS
-========
-
-rufshare
---------
-https://github.com/wizrd00/rufshare
-Written in C
---------
-Reliable UDP-based File Sharing library.
-I developed a custom protocol on top of UDP to reliably transfer files between a
-sender and a receiver while checking that data is received correctly.
-There are still many ways to improve this project.
-For example, the current architecture sends data serial-based, but using a pipelined-based
-architecture could make file transfering much faster.
-It would also be possible to improve error detection by using stron algorithms rather than the
-CRC implementation.
-
-terrenity
----------
-https://github.com/wizrd00/terrenity
-Written in C
----------
-This project uses Two-Matrix approach to implement powerful functions to
-create Terminal-based Graphics.
-This project can be used to develope text-based Games, Text Editors and Graphical CLI.
-One of my own projects which uses this library is a game called Brikcrash(https://github.com/wizrd00/brikcrash).
-
-HI6Toolkit
-----------
-https://github.com/wizrd00/HI6Toolkit
-Written in Python
-----------
-Collection of Professional Network tools can be used by any Network Engineer.
-This Script includes Powerful, Async and fast Packet Sniffer that can captures
-and analyze various Packets with using Raw-Socket.
-This Script includes Async, fast and useful Port Scanner to be used in many ways
-like Penetration tests.
-This Script includes Practical Traceroute which uses UDP and manipulates TTL to
-trace the route in network.
-This Script includes Two DoS approach called ARP flood and TCP SYN flood and can be use
-in many ways like network test and penetration test.
 
 
 BrikCrash
