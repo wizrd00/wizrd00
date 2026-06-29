@@ -12,7 +12,7 @@
 - [wizrd00.github.io](https://wizrd00.github.io)
 
 **GitHub:**
--[github.com/wizrd00](https://github.com/wizrd00)
+- [github.com/wizrd00](https://github.com/wizrd00)
 
 ---
 
