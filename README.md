@@ -21,13 +21,7 @@ Not available (restricted in Iran)
 
 SUMMARY
 =======
-Self-taught programmer specializing in systems programming, network programming, embedded systems, and Linux development.
-
-Strong experience in low-level programming in C and Python, including socket programming, protocol design, and system tools.
-
-Developed multiple networking and systems projects such as a reliable UDP-based file transfer system, packet analysis tools, and a terminal-based graphics engine.
-
-Currently expanding expertise in embedded systems development using ESP-IDF (ESP32 / ESP8266).
+Self-taught programmer specializing in systems programming, network programming, and embedded systems (ESP-IDF), with experience in software development on Linux. Highly proficient in C and Python, with a focus on low-level socket programming, protocol design, and the development of systems tools.
 
 
 SKILLS
@@ -52,12 +46,14 @@ rufshare
 --------
 https://github.com/wizrd00/rufshare
 C
-
-Reliable UDP-based file sharing system.
-
-Designed and implemented a custom protocol on top of UDP to reliably transfer files between sender and receiver with data integrity verification.
-
-Potential improvements include introducing a pipelined architecture for improved throughput and replacing CRC with stronger error-detection algorithms.
+RUFShare (Reliable UDP File Sharing) is a lightweight file transfer library built on top of UDP, designed to provide reliable file delivery while maintaining the performance advantages of connectionless communication.
+The library implements a custom protocol that handles:
+• Peer discovery
+• File transfer negotiation
+• Chunked data transmission
+• Integrity verification using CRC16/CRC32
+• Acknowledgement and retransmission mechanisms
+RUFShare is written in pure C99 and targets Unix-like systems.
 
 
 terrenity
